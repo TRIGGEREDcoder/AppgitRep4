@@ -1,0 +1,16 @@
+{
+    "appswift": {
+        "continueTheming": true,
+        "shouldCommitCode": true,
+        "shouldCreateDatabaseSchema": true,
+        "scmType": "git",
+        "scmUserName": "TRIGGEREDcoder",
+        "scmPwd": "8ae8c3f1dad2a210147c409a43a3~~f90546a517dbcadd71710991e49fef69",
+        "scmUrl": "https://github.com/TRIGGEREDcoder/AppgitRep4.git",
+        "dbUrl": "38.17.53.119",
+        "dbUserName": "postgres1",
+        "dbPassword": "d0c7ec82476f6c98~~919131373036d0f52e444559bcc1385a",
+        "dbName": "appswift",
+        "dbPort": "17282"
+    }
+}

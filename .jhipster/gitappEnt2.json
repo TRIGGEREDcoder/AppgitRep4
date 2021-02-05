@@ -1,0 +1,37 @@
+{
+    "relationships": [
+        {
+            "relationshipId": 1,
+            "relationshipName": "GitApplicationRelation",
+            "otherEntityName": "gitappEnt2",
+            "relationshipType": "one-to-many",
+            "otherEntityField": "gitEnt2f1",
+            "ownerSide": "NA"
+        }
+    ],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "gitEnt2f1",
+            "fieldType": "String"
+        },
+        {
+            "fieldId": 2,
+            "fieldName": "gitEnt2f2",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldId": 3,
+            "fieldName": "gitEnt2f3",
+            "fieldType": "String"
+        },
+        {
+            "fieldId": 4,
+            "fieldName": "gitEnt2f4",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "1612529868010",
+    "dto": "no",
+    "pagination": "no"
+}
